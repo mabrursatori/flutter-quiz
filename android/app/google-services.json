@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549373248047",
+    "project_id": "mabrur-edu-quiz",
+    "storage_bucket": "mabrur-edu-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549373248047:android:2fb2abe19d6c6c51c7bcda",
+        "android_client_info": {
+          "package_name": "com.mabrur.quiz_twk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549373248047-c40r529a38vffu146jp4sl6fncb3i7hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDMGPPvnKMH1d43_AIls8cm1zd0OGatg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549373248047-c40r529a38vffu146jp4sl6fncb3i7hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
